@@ -7,21 +7,21 @@ Students can learn and do much more with the knowledge of undergrad traditional 
 
 Bibliography:
 
-Basically books online and tutorials and libs documentation, recomended order:
+Basically books online and tutorials and libs documentation, recommended order:
 
 - Learn Python basics: https://penseallen.github.io/PensePython2e/
-- Learn Python for data science: https://jakevdp.github.io/PythonDataScienceHandbook/
 - Python guide: https://docs.python-guide.org/
 - Python tutorial: https://docs.python.org/3/tutorial/
 - Python reference: https://books.goalkicker.com/PythonBook/
 - Learn about the standard Python libs: https://docs.python.org/3/library/index.html
 - Python official documentation: https://docs.python.org/3/
+- Learn Python for data science: https://jakevdp.github.io/PythonDataScienceHandbook/
 - Linear Algebra with numpy: https://numpy.org/
 - Numpy quick start: https://numpy.org/devdocs/user/quickstart.html
-- Run Jupyter Notebook at the cloud on Google Colab: https://colab.research.google.com/
-- Install Anaconda Python distribution locally in your computer: https://www.anaconda.com/
+- Run Jupyter Notebook in the cloud on Google Colab: https://colab.research.google.com/
+- Install Anaconda Python distribution locally on your computer: https://www.anaconda.com/
 - Matplotlib Tutorias - graphics: https://matplotlib.org/2.0.2/users/tutorials.html
-- Pandas dataframe documentation for data analisys: https://pandas.pydata.org/
+- Pandas data frame documentation for data analysis: https://pandas.pydata.org/
 - An Introduction to Statistical Learning: https://www.statlearning.com/
 - Advanced graphics with Seaborn: https://seaborn.pydata.org/tutorial/introduction
 - Advanced graphics with Alter: https://altair-viz.github.io/#
