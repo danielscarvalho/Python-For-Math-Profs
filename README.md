@@ -26,3 +26,4 @@ Basically books online and tutorials and libs documentation, recommended order:
 - Advanced graphics with Seaborn: https://seaborn.pydata.org/tutorial/introduction
 - Advanced graphics with Alter: https://altair-viz.github.io/#
 - Symbolic math: https://www.sympy.org/pt/index.html
+- scikit-learn Machine Learning in Python: https://scikit-learn.org/stable/
