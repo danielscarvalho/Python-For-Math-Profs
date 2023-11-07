@@ -9,14 +9,16 @@ Bibliography:
 
 Basically books online and tutorials and libs documentation:
 
-- https://numpy.org/
-- https://numpy.org/devdocs/user/quickstart.html
-- https://colab.research.google.com/
-- https://penseallen.github.io/PensePython2e/
-- https://jakevdp.github.io/PythonDataScienceHandbook/
-- https://docs.python-guide.org/
-- https://books.goalkicker.com/PythonBook/
-- https://docs.python.org/3/
-- https://www.anaconda.com/
-- https://docs.python.org/3/library/index.html
-- https://docs.python.org/3/tutorial/
+- Linear Algebra with numpy: https://numpy.org/
+- Numpy quick start: https://numpy.org/devdocs/user/quickstart.html
+- Run Jupyter Notebook at the cloud on Google Colab: https://colab.research.google.com/
+- Learn Python basics: https://penseallen.github.io/PensePython2e/
+- Learn Python for data science: https://jakevdp.github.io/PythonDataScienceHandbook/
+- Python guide: https://docs.python-guide.org/
+- Python reference: https://books.goalkicker.com/PythonBook/
+- Python official documentation: https://docs.python.org/3/
+- Install Anaconda Python distribution locally in your computer: https://www.anaconda.com/
+- Learn about the standard Python libs: https://docs.python.org/3/library/index.html
+- Python tutorial: https://docs.python.org/3/tutorial/
+- Matplotlib Tutorias - graphics: https://matplotlib.org/2.0.2/users/tutorials.html
+- Pandas dataframe documentation: https://pandas.pydata.org/
