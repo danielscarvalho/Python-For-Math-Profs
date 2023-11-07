@@ -15,6 +15,7 @@ Basically books online and tutorials and libs documentation, recommended order:
 - Python reference: https://books.goalkicker.com/PythonBook/
 - Learn about the standard Python libs: https://docs.python.org/3/library/index.html
 - Python official documentation: https://docs.python.org/3/
+- Project Jupyter Documentation: https://docs.jupyter.org/en/latest/
 - Learn Python for data science: https://jakevdp.github.io/PythonDataScienceHandbook/
 - Linear Algebra with numpy: https://numpy.org/
 - Numpy quick start: https://numpy.org/devdocs/user/quickstart.html
