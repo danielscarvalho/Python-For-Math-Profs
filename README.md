@@ -25,4 +25,4 @@ Basically books online and tutorials and libs documentation, recomended order:
 - An Introduction to Statistical Learning: https://www.statlearning.com/
 - Advanced graphics with Seaborn: https://seaborn.pydata.org/tutorial/introduction
 - Advanced graphics with Alter: https://altair-viz.github.io/#
-- Simbolic math: https://www.sympy.org/pt/index.html
+- Symbolic math: https://www.sympy.org/pt/index.html
