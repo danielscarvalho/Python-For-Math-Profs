@@ -26,5 +26,6 @@ Basically books online and tutorials and libs documentation, recommended order:
 - An Introduction to Statistical Learning: https://www.statlearning.com/
 - Advanced graphics with Seaborn: https://seaborn.pydata.org/tutorial/introduction
 - Advanced graphics with Alter: https://altair-viz.github.io/#
+- HoloViews data science visualization: https://holoviews.org/
 - Symbolic math: https://www.sympy.org/pt/index.html
 - scikit-learn Machine Learning in Python: https://scikit-learn.org/stable/
